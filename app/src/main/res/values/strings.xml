@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KidLock</string>
+    <string name="a11y_desc">KidLock watches which app is opening so it can ask for the parent PIN before locked apps start. It does not read or collect anything you type.</string>
+</resources>
